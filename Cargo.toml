@@ -1,0 +1,7 @@
+[package]
+name = "rusty-xinu"
+version = "0.0.1"
+authors = ["Derek Kastner <dkastner@gmail.com>"]
+
+[lib]
+crate-type = ["staticlib"]
