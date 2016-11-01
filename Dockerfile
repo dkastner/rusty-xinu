@@ -15,6 +15,6 @@ WORKDIR /build
 
 ADD Cargo.toml /build/
 
-# RUN cargo install
+RUN cargo update
 
 ADD . /build/
