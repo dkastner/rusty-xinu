@@ -1,3 +1,6 @@
 .vagrant
 *.iso
 .DS_Store
+build
+out
+target
